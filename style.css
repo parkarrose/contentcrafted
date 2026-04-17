@@ -23,7 +23,10 @@ body {
   font-size: 14px;   /* smaller for mobile */
   padding: 6px 8px;
 }
-
+h2 {
+  margin: 0;
+  padding: 10px 0;
+}
 .navbar a:hover {
   color:#A2574F;
 }
