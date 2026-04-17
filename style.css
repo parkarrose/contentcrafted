@@ -1,5 +1,5 @@
 body {
-  margin:5px;
+  margin:0;
   min-height: 100vh;
   background-color:#f0e0e0;
   background-repeat: no-repeat;
@@ -71,7 +71,10 @@ margin-left:10px;
   section {
     padding: 30px 10px;
   }
-
+.navbar a {
+    font-size: 13px;
+    padding: 5px 6px;
+  }
   .box {
     margin: 8px 0;
   }
